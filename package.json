@@ -5,11 +5,10 @@
   "repository":"https://github.com/wfreeman/simple-neo.git",
   "private": false,
   "scripts": { 
-    "test": "jasmine-node --coffee test/" 
+    "test": "jasmine-node test/" 
   },
   "dependencies": {
-    "request":"2.21.x",
-    "coffee-script":"1.6.x"
+    "request":"2.21.x"
   },
   "devDependencies": {
     "jasmine-node":"1.7.x"
