@@ -1,0 +1,18 @@
+{
+  "name": "simple-neo",
+  "description": "simple neo4j rest interface",
+  "version": "0.0.1",
+  "repository": 
+  "private": false,
+  "scripts": { 
+    "test": "jasmine-node --coffee test/" 
+  },
+  "dependencies": {
+    "request":"2.21.x",
+    "coffee-script":"1.6.x"
+  },
+  "devDependencies": {
+    "jasmine-node":"1.7.x"
+  },
+  "engine": "node >= 0.8.x"
+}
