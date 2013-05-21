@@ -2,7 +2,7 @@
   "name": "simple-neo",
   "description": "simple neo4j rest interface",
   "version": "0.0.1",
-  "repository": 
+  "repository":"https://github.com/wfreeman/simple-neo.git",
   "private": false,
   "scripts": { 
     "test": "jasmine-node --coffee test/" 
